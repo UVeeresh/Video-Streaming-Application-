@@ -1,0 +1,115 @@
+{"_id":{"$oid":"5fc75d937b5014d933d15b3b"},
+"Movie_name":"Incredibles 2",
+"Movie_url":"https://www.youtube.com/watch?v=TbQ_yX_rxNI",
+"Movie_desc":"The Incredibles family takes on a new mission which involves a change in family roles: Bob Parr (Mr. Incredible) must manage the house while his wife Helen (Elastigirl) goes out to save the world."}
+
+{"_id":{"$oid":"5fc75ea07b5014d933d15b3d"},
+"Movie_name":"Frozen 2",
+"Movie_url":"https://www.youtube.com/watch?v=IVccHEV0DFo",
+"Movie_desc":"Anna, Elsa, Kristoff, Olaf and Sven leave Arendelle to travel to an ancient, autumn-bound forest of an enchanted land. They set out to find the origin of Elsa's powers in order to save their kingdom. "}
+
+{"_id":{"$oid":"5fc760167b5014d933d15b3e"},
+"Movie_name":"Toy Story 4",
+"Movie_url":"https://www.youtube.com/watch?v=s9OJoDHxCS4",
+"Movie_desc":"When a new toy called \"Forky\" joins Woody and the gang, a road trip alongside old and new friends reveals how big the world can be for a toy."}
+
+{"_id":{"$oid":"5fc763657b5014d933d15b3f"},
+"Movie_name":"The Lion King",
+"Movie_url":"https://www.youtube.com/watch?v=jy4UdBcyh3c",
+"Movie_desc":"After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery."}
+
+{"_id":{"$oid":"5fc7692b7b5014d933d15b40"},
+"Movie_name":"Spider Man: Into the Spider-Verse",
+"Movie_url":"https://www.youtube.com/watch?v=GclFUK4jefw",
+"Movie_desc":"Teen Miles Morales becomes the Spider-Man of his universe, and must join with five spider-powered individuals from other dimensions to stop a threat for all realities."}
+
+{"_id":{"$oid":"5fc76a087b5014d933d15b41"},
+"Movie_name":"Pokémon Detective Pikachu",
+"Movie_url":"https://www.youtube.com/watch?v=vrBopmeeV4Y",
+"Movie_desc":"In a world where people collect Pokémon to do battle, a boy comes across an intelligent talking Pikachu who seeks to be a detective."}
+
+{"_id":{"$oid":"5fc76b51ade72504e33c40b3"},
+"Movie_name":"Ralph Breaks the Internet",
+"Movie_url":"https://www.youtube.com/watch?v=s92IDLfRRyc",
+"Movie_desc":"Six years after the events of Wreck-It Ralph, Ralph and Vanellope, now friends, discover a wi-fi router in their arcade, leading them into a new adventure."}
+
+{"_id":{"$oid":"5fc76bf5ade72504e33c40b4"},
+"Movie_name":"Avengers: Endgame",
+"Movie_url":"https://www.youtube.com/watch?v=fP2w_UAK6B4",
+"Movie_desc":"After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe."}
+
+{"_id":{"$oid":"5fc76cc4ade72504e33c40b5"},
+"Movie_name":"Joker",
+"Movie_url":"https://www.youtube.com/watch?v=JeyVU4nMWCg",
+"Movie_desc":"In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker."}
+
+{"_id":{"$oid":"5fc76d4cade72504e33c40b6"},
+"Movie_name":"Spider-Man: Far from Home",
+"Movie_url":"https://www.youtube.com/watch?v=qRQu4tZF1GA",
+"Movie_desc":"Following the events of Avengers: Endgame (2019), Spider-Man must step up to take on new threats in a world that has changed forever."}
+
+{"_id":{"$oid":"5fc76dbcade72504e33c40b7"},
+"Movie_name":"Aquaman",
+"Movie_url":"https://www.youtube.com/watch?v=0y5KiKKCD7A",
+"Movie_desc":"Arthur Curry, the human-born heir to the underwater kingdom of Atlantis, goes on a quest to prevent a war between the worlds of ocean and land."}
+
+{"_id":{"$oid":"5fc76e5eade72504e33c40b8"},
+"Movie_name":"Avengers: Infinity War",
+"Movie_url":"https://www.youtube.com/watch?v=XcQdB2j7Qbw",
+"Movie_desc":"The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe."}
+
+{"_id":{"$oid":"5fc76ef8ade72504e33c40ba"},
+"Movie_name":"Wonder Woman",
+"Movie_url":"https://www.youtube.com/watch?v=pJCgeOAKXyg",
+"Movie_desc":"When a pilot crashes and tells of conflict in the outside world, Diana, an Amazonian warrior in training, leaves home to fight a war, discovering her full powers and true destiny."}
+
+{"_id":{"$oid":"5fc77017ade72504e33c40bb"},
+"Movie_name":"Spider-Man: Homecoming",
+"Movie_url":"https://www.youtube.com/watch?v=ORrQKFliVLM",
+"Movie_desc":"Peter Parker balances his life as an ordinary high school student in Queens with his superhero alter-ego Spider-Man, and finds himself on the trail of a new menace prowling the skies of New York City."}
+
+{"_id":{"$oid":"5fc773a4ade72504e33c40bc"},
+"Movie_name":"Your Name.",
+"Movie_url":"https://www.youtube.com/watch?v=a2GujJZfXpg",
+"Movie_desc":"Your name revolves around Mitsuha and Taki's actions, which begin to have a dramatic impact on each other's lives, weaving them into a fabric held together by fate and circumstance."}
+
+{"_id":{"$oid":"5fc774a5ade72504e33c40bd"},
+"Movie_name":"A Silent Voice",
+"Movie_url":"https://www.youtube.com/watch?v=NKsMFQnIO2Q",
+"Movie_desc":"A Silent Voice tells the heartwarming tale of Shouya's reunion with Shouko and his honest attempts to redeem himself, all while being continually haunted by the shadows of his past."}
+
+{"_id":{"$oid":"5fc775e0ade72504e33c40be"},
+"Movie_name":"Weathering With You",
+"Movie_url":"https://www.youtube.com/watch?v=Q6iK6DjV_iE",
+"Movie_desc":"A high-school boy who has run away to Tokyo befriends a girl who appears to be able to manipulate the weather."}
+
+{"_id":{"$oid":"5fc777a6ade72504e33c40bf"},
+"Movie_name":"My Hero Academia: Heroes Rising",
+"Movie_url":"https://www.youtube.com/watch?v=XC9XwrvUpI4",
+"Movie_desc":"A group of youths aspiring to become professional superheroes, fight in a world full of people with abilities, also known as quirks. Deku and his fellow classmates from Hero Academy face Nine, the strongest villain yet."}
+
+{"_id":{"$oid":"5fc77839ade72504e33c40c0"},
+"Movie_name":"Demon Slayer the Movie: Mugen Train",
+"Movie_url":"https://www.youtube.com/watch?v=ATJYac_dORw",
+"Movie_desc":"Tanjirou Kamado and his friends from the Demon Slayer Corps accompany Kyoujurou Rengoku, the Flame Hashira, to investigate a mysterious series of disappearances occurring inside a train. Little do they know that Enmu, one of the Twelve Kizuki, is also on board and has prepared a trap for them."}
+
+{"_id":{"$oid":"5fc77902ade72504e33c40c1"},
+"Movie_name":"Spirited Away",
+"Movie_url":"https://www.youtube.com/watch?v=ByXuk9QqQkk",
+"Movie_desc":"During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts."}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
